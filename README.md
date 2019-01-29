@@ -1,0 +1,5 @@
+# CorrelationRegressionPresentation
+
+These are starter ioslides.  Your group is limited to five slides (not including the cover slide).  
+All code, data, etc should be in the slides and reproducible.  Your talk is to be no more than 5 minutes long.
+Please practice your presentation so that it is polished!
